@@ -30,6 +30,7 @@
     API : 클라이언트와 서버간의 소통에서 요청 및 응답 방식을 미리 정해놓은 규칙
     
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e796e6b9-1db7-4e7c-ac70-26ee20f39f48" />
 
 
 # 상품 기능
